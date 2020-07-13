@@ -1,0 +1,16 @@
+.navbar-background {
+    background-color: aqua;
+}
+
+.main-div {
+    background-color: lightblue;
+}
+
+p {
+    padding: 0px 20px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    padding: 10px;
+}
